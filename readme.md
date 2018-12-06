@@ -1,4 +1,4 @@
-# Handwritten Digit Recognition using Random Forest Classifier with ~97% accuracy
+# Handwritten Digit Recognition with ~97% accuracy using Random Forest Classifier  and MNIST data set.
 
 Recognizing digit by inputting image with handwritten digit.
 
