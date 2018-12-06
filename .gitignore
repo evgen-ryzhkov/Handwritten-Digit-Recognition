@@ -1,0 +1,5 @@
+/.idea
+/venv
+/__pycache__
+/data/synthesis_data
+/scripts/final_model.sav

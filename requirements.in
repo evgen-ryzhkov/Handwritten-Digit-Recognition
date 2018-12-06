@@ -1,0 +1,7 @@
+pip-tools
+pandas
+sklearn
+mnist
+matplotlib
+Pillow
+scikit-image
